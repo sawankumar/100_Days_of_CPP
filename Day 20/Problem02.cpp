@@ -1,4 +1,4 @@
-// GeeksforGeeks : 
+// GeeksforGeeks : https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1
 
 //{ Driver Code Starts
 // driver code
