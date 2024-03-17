@@ -15,6 +15,7 @@
 12. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) : [Solution](https://github.com/sawankumar/100_Days_of_CPP/blob/main/Day%2019/Solution01.cpp)
 13. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) : [Solution](https://github.com/sawankumar/100_Days_of_CPP/blob/main/Day%2019/Solution02.cpp)
 14. [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) : [Solution](https://github.com/sawankumar/100_Days_of_CPP/blob/main/Day%2020/Solution03.cpp)
+15. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) : [Solution](https://github.com/sawankumar/100_Days_of_CPP/blob/main/Day%2021/Solution02.cpp)
 
 
 
